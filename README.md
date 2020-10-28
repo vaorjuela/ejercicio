@@ -1,2 +1,2 @@
 # ejercicio
-![Image](Ejercicio-pipes.png)
+![Image](Ejercicio-pipes.PNG)
